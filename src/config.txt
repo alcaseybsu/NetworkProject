@@ -1,0 +1,28 @@
+
+#-----------------------------------Configuration File--------------------------------------
+
+#Routers
+R1,127.0.0.1,3000
+R2,127.0.0.1,4000
+R3,127.0.0.1,5000
+#End of router list
+
+#Connections Table
+
+#Routers to Routers
+R1:R2
+R2:R3
+#End Router to Router List
+
+#Routers to subnets
+R1:N1
+R1:N2
+R1:N3
+
+R2:N3
+R2:N4
+
+R3:N4
+R3:N5
+R3:N6
+#End Routers to Subnets List
