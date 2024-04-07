@@ -23,7 +23,7 @@ Running the application is straightforward. Launch a router instance via the com
 
 ## Team Members:
 
-** Cyarina Amatya
-** Leah Casey
-** Adrianna Hatcher
-** Mason Scott
+Cyarina Amatya  
+Leah Casey  
+Adrianna Hatcher  
+Mason Scott  
